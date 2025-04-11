@@ -12,7 +12,7 @@
 ## Запуск проекта:
 
 1. Необходим установленный docker и docker-compose 
-2. Склонировать репозиторий :
+2. Склонировать репозиторий и запустить проект:
 
 ```bash
 git clone https://github.com/ТВОЙ_ЛОГИН/flask-redis-docker-task.git
